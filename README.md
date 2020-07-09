@@ -1,20 +1,20 @@
-## :electric_plug: WordPress プラグイン
+## WordPress プラグイン
 
-### [Text Sitemap](https://github.com/addshlab/text-sitemap)
+### :memo: [Text Sitemap](https://github.com/addshlab/text-sitemap)
 
 Search Consoleに対応した、テキストファイル形式のサイトマップ(sitemap.txt)を出力するプラグイン
 
-### [Hash Permalink](https://github.com/addshlab/hash-permalink)
+### :memo: [Hash Permalink](https://github.com/addshlab/hash-permalink)
 
 パーマリンクを /article/e034190cd7/ のようなハッシュ値にするプラグイン
 
-## :scroll: WordPres テーマ
+## WordPres テーマ
 
 ### [four](https://github.com/addshlab/four)
 
 主要コードが index.php と functions.php だけのテーマ
 
-## :computer: Linux コマンド
+## Linux コマンド
 
 ### [cnf :: git commit for now](https://github.com/addshlab/commit-for-now)
 
