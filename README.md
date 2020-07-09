@@ -1,4 +1,4 @@
-<div class="my-column" style="display:flex;">
+<div align="center">
 
 <section>
 
