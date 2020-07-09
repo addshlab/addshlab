@@ -28,10 +28,10 @@ Search Consoleに対応した、テキストファイル形式のサイトマッ
 
 ![NO SUPPORT](https://add.sh/images/no-support.png)
 
-このバッジが表示されているリポジトリは、当アカウントからサポートを行いません。
+当アカウントからサポートを行わないことを強く主張するバッジ
 
 ### 保証なし
 
 ![NO GUARANTEE](https://add.sh/images/no-guarantee.png)
 
-このバッジが表示されているリポジトリは、動作保証をいたしません。
+動作保証が無いこと強く主張するバッジ
