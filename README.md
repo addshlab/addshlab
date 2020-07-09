@@ -1,10 +1,4 @@
-<style>
-.my-column {
-    display: flex;
-}
-</style>
-
-<div class="my-column">
+<div class="my-column" style="display:flex;">
 
 <section>
 
