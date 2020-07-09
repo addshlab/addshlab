@@ -1,3 +1,13 @@
+<style>
+.my-column {
+    display: flex;
+}
+</style>
+
+<div class="my-column">
+
+<section>
+
 ## WordPress プラグイン
 
 ### [Text Sitemap](https://github.com/addshlab/text-sitemap)
@@ -21,6 +31,14 @@ Search Consoleに対応した、テキストファイル形式のサイトマッ
 `git commit` と `git push` を一括で行うコマンド
 
 「コミットメッセージはどうでもいいが、コミットは細かく行いたい」という時の思考の中断を防止する
+
+</section>
+
+<section>
+* profile
+</section>
+
+</div>
 
 ## 当アカウント特有のバッジ
 
