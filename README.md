@@ -1,8 +1,4 @@
-<div align="center">
-
-<section>
-
-## WordPress プラグイン
+## :electric_plug: WordPress プラグイン
 
 ### [Text Sitemap](https://github.com/addshlab/text-sitemap)
 
@@ -12,27 +8,19 @@ Search Consoleに対応した、テキストファイル形式のサイトマッ
 
 パーマリンクを /article/e034190cd7/ のようなハッシュ値にするプラグイン
 
-## WordPres テーマ
+## :scroll: WordPres テーマ
 
 ### [four](https://github.com/addshlab/four)
 
 主要コードが index.php と functions.php だけのテーマ
 
-## Linux 独自コマンド
+## :computer: Linux コマンド
 
 ### [cnf :: git commit for now](https://github.com/addshlab/commit-for-now)
 
 `git commit` と `git push` を一括で行うコマンド
 
 「コミットメッセージはどうでもいいが、コミットは細かく行いたい」という時の思考の中断を防止する
-
-</section>
-
-<section>
-* profile
-</section>
-
-</div>
 
 ## 当アカウント特有のバッジ
 
