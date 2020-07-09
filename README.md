@@ -10,13 +10,13 @@ Search Consoleに対応した、テキストファイル形式のサイトマッ
 
 ## WordPres テーマ
 
-### [four](https://github.com/addshlab/four)
+### :memo: [four](https://github.com/addshlab/four)
 
 主要コードが index.php と functions.php だけのテーマ
 
 ## Linux コマンド
 
-### [cnf :: git commit for now](https://github.com/addshlab/commit-for-now)
+### :memo: [cnf :: git commit for now](https://github.com/addshlab/commit-for-now)
 
 `git commit` と `git push` を一括で行うコマンド
 
