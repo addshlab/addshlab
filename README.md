@@ -14,6 +14,14 @@ Search Consoleに対応した、テキストファイル形式のサイトマッ
 
 主要コードが index.php と functions.php だけのテーマ
 
+## Linux 独自コマンド
+
+### [cnf :: git commit for now](https://github.com/addshlab/commit-for-now)
+
+`git commit` と `git push` を一括で行うコマンド
+
+「コミットメッセージはどうでもいいが、コミットは細かく行いたい」という時の思考の中断を防止する
+
 ## 当アカウント特有のバッジ
 
 ### サポートなし
