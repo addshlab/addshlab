@@ -12,7 +12,7 @@ Search Consoleに対応した、テキストファイル形式のサイトマッ
 
 管理画面以外の REST API ・コメントフィード・コメントフィードヘッド出力・リビジョン・自動保存・emoji・投稿者アーカイブ・コメントフォーム・ XMLRPC を停止するプラグイン。このプラグインの動作は他機能への予期せぬ干渉をする可能性が高く、直接の使用はおすすめできません。
 
-### :memo: [Cert Expiration Widget](https://github.com/addshlab/cenr-expiration)
+### :memo: [Cert Expiration Widget](https://github.com/addshlab/cent-expiration)
 
 サイトで TLS を使用していた場合、ドメイン名・有効期限・発行者・署名アルゴリズムを表示するウィジェット。留意点として、表示が作成者のサイトに合わせてハードコードされています。
 
