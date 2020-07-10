@@ -16,7 +16,7 @@ Search Consoleに対応した、テキストファイル形式のサイトマッ
 
 ## Linux コマンド
 
-### :memo: [cfn :: git commit for now](https://github.com/addshlab/commit-for-now)
+### :memo: [gnow :: git commit for now](https://github.com/addshlab/gnow)
 
 `git commit` と `git push` を一括で行うコマンド
 
